@@ -25,7 +25,7 @@ commands_dict ={
     'd': 'puzzle.show_puzzle()'
 }
 print ("Sodoku Solver")
-print ("Enter 'Help' for help")
+print ("Enter 'Help' to see list of commands available")
 while True:
     inpt = input('Enter Command: ').strip().lower()
     command = inpt[0]
