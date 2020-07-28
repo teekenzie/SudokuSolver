@@ -5,10 +5,15 @@ Finally, the last step of implementation involves guessing, which uses the idea 
 The files that start with "test" check each step of my progress to ensure that the code works as expected before I build upon it further.
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [Prerequisites](#prerequisites)
 * [Setup](#setup)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
+
+## Screenshots
+![Screenshot1](./Screenshots/screenshot1.JPG)
+![Screenshot2](./Screenshots/screenshot2.JPG)
 
 ## Prerequisites
 Make sure you have the latest version of Python installed.
