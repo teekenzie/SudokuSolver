@@ -1,5 +1,5 @@
 # Sudoku Solver
-> This project was created after learning the basics of python and inspired by my passion for Sudoku 
+> Created Summer 2020<br>This project was created after learning the basics of python and inspired by my passion for Sudoku 
 It uses advanced sudoku-solving techniques such as doubles, triples, and candidate lines. 
 Finally, the last step of implementation involves guessing, which uses the idea of tree recursion 
 The files that start with "test" check each step of my progress to ensure that the code works as expected before I build upon it further.
