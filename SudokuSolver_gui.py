@@ -9,9 +9,8 @@ root.title('Sudoku Solver')
 
 # title label
 extraLabel1 = Label(root, text = " ").grid(row =1, column = 0, padx = 20)
-extraLabel3 = Label(root, text = " ").grid(row =1, column = 4, padx = 20)
-extraLabel2 = Label(root, text = "By: Kenzie Tee", font= ('Helvetica 15 bold')).grid(row =5, column = 3, columnspan = 2)
-extraLabel3 = Label(root,text = " ").grid(row =5, column = 0, pady = 50)
+extraLabel2 = Label(root, text = " ").grid(row =1, column = 4, padx = 20)
+extraLabel2 = Label(root,text = " ").grid(row =5, column = 0, pady = 50)
 titleLabel = Label(root, text='SUDOKU SOLVER', font= ('Helvetica 20 bold'),padx = 50,pady=20)
 titleLabel.grid(row = 0, column =1, columnspan = 3)
 
